@@ -46,5 +46,3 @@ class C4 extends C implements I3 {
 // interface I4 extends I1, I3 {}
 
 
-public class InterfaceCollisioon {
-}
