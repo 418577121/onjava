@@ -8,6 +8,9 @@ public class Parcel2 {
         public int value() {
             return i;
         }
+        public static void f() {
+
+        }
     }
     class Destination {
         private String label;
